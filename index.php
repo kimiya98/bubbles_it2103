@@ -1,8 +1,10 @@
+
 <?php
 	echo "Hello there!"
 	$x = 0;
-	while($x > 0){
+	for($x = 10; $x>0;$x--){
 		echo "This is a line."
-		$x++;
 	}
+	
+	include("home.php");
 ?>
