@@ -3,6 +3,8 @@
 		<link rel='stylesheet' href='css/bootstrap.min.css'>
 	</head>
 	<body>
-		<button class='btn btn-danger'><i class='glyphicon glyphicon-remove'></i></button>
+
+		<button class='btn btn-danger'><span class='glyphicon glyphicon-user'></span></button>
+
 	</body>
 	</html>
